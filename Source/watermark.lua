@@ -1,3 +1,4 @@
+-- dont think u could remove this, its implemented in injector.
 game.StarterGui:SetCore("SendNotification", {
 Title = "IndigoAPI",
 Text = "Powered By IndigoAPI | .gg/getindigo",
