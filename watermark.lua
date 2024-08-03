@@ -4,3 +4,4 @@ Text = "Powered By IndigoAPI | .gg/getindigo",
 Duration = 5,
 })
 setclipboard("https://discord.gg/getindigo")
+print("Copied Discord Invite To Clipboard")
