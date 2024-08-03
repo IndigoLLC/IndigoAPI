@@ -9,4 +9,4 @@ The textBox1.Text is just a string
 ##### To check if its injected, u can do `ExploitAPI.InjectionStatus()`, it will return true if its injected, and false if its not
 
 
-###If you dont understand something from here, ask in our [Discord server](https://discord.gg/getindigo "Discord server")
+### If you dont understand something from here, ask in our [Discord server](https://discord.gg/getindigo "Discord server")
