@@ -13,3 +13,7 @@ Stop searching, "How to make a roblox exploit" on Google. Stop waiting for explo
 ### Documentation
 
 For comprehensive guides and examples, check out our [Documentation](https://github.com/IndigoLLC/IndigoAPI/blob/main/docs.md).
+
+### License
+
+This project is licensed under a proprietary license. See the [LICENSE](./LICENSE.md) file for details.
