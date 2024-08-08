@@ -1,4 +1,4 @@
-// credits to nyx owner / speedster for this c# api code.
+// dont work for multiple ppl, only u can use it skid!!
 using System;
 using System.Diagnostics;
 using System.IO;
